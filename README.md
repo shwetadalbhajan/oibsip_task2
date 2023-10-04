@@ -6,7 +6,7 @@ The fun and easy project “Guess the Number” is a short Java project that all
 - The computer then tells if the entered number matches the guesses number or it is higher/lower than the generated number.
 - The game continues under the user guessing the number.
 
-You can also incorporate further details as:
+Futher it has details as follows:
 
 - Limiting the number of attempts.
 - Adding more rounds.
